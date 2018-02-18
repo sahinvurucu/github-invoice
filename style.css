@@ -1,0 +1,80 @@
+body {
+    border:2px solid black;
+    margin: 0 auto;
+    width:1000px;
+    height: auto;
+    background:rgb(255, 255, 255);
+}
+
+h1 {
+color: rgb(8, 1, 78);
+
+text-align:center;
+text-shadow: 2px 2px #0a298d;
+border: -2px solid rgb(0, 3, 158);
+outline-style: solid;
+outline-width: thick;
+
+}
+
+.Logo img{ 
+height: auto;
+width: 10%
+
+}
+
+p1 { text-align:left;
+
+
+}
+
+.right {
+text-align: right;
+
+}
+
+.left {
+text-align: left;
+}
+
+.center {
+text-align: center;
+border: 1px solid rgb(0, 0, 0);
+background-color: rgb(155, 152, 152)
+}
+
+.faktura p {
+text-align: right  
+}
+
+
+style { 
+font-family:arial, sans-serif;
+border-collapse: collapse;
+width: 100%;
+
+
+}
+div {
+border: 2px solid black;
+margin-top: 100px;
+margin-bottom: 100px;
+margin-right: 50px;
+margin-left: 50px;
+background-color: rgb(182, 182, 182);
+text-align: center
+}
+style  {
+border: 1px solid black;
+border-collapse: collapse;
+}
+
+td, th {
+border: 1px solid #dddddd;
+text-align: left;
+padding: 8px;
+}
+
+tr:nth-child(even) {
+background-color: #dddddd;
+}
